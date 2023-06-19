@@ -1,4 +1,4 @@
-package com.hks713.demo.entity;
+package com.hks713.demo.domain;
 
 import lombok.Getter;
 import lombok.Setter;
