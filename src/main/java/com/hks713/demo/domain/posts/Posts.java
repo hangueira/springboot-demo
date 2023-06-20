@@ -1,4 +1,4 @@
-package com.hks713.demo.domain;
+package com.hks713.demo.domain.posts;
 
 import lombok.AccessLevel;
 import lombok.Builder;
